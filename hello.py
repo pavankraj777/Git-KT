@@ -1,2 +1,2 @@
-print("Hello World")
-Print("Welcome to Devops"
+print "Hello World"
+Print "Welcome to Devops"
