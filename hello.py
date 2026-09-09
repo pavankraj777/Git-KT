@@ -1,2 +1,3 @@
-Pint "Hello World"
-Print "Welcome to Devops"
+print ("Hello World")
+print ("Welcome to Devops")
+
