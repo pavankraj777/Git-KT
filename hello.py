@@ -1,4 +1,2 @@
-print("hello world")
-print("welcome to Git-KT")
-print("text field")
-print("save")
+Pint "Hello World"
+Print "Welcome to Devops"
